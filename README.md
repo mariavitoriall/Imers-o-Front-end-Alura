@@ -12,6 +12,7 @@ JavaScript: Responsável pela lógica e manipulação dinâmica da interface, in
 HTML5: Usado para estruturar o conteúdo da página, como cabeçalhos, listas e seções.
 CSS3: Utilizado para estilizar a interface e garantir a responsividade da aplicação, permitindo que se adapte a diferentes tamanhos de tela.
 API Local: Uma API simulada, usando um arquivo JSON, para fornecer dados sobre os artistas e faixas exibidos na aplicação.
+
 Funcionalidades:
 
 Interface Inspirada no Spotify: A navegação e o layout foram projetados para imitar a aparência da plataforma oficial, oferecendo uma experiência familiar para os usuários.
